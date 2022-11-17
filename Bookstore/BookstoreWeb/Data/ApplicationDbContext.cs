@@ -1,5 +1,5 @@
 ﻿using BookstoreWeb.Models;
-using System.Data.Entity;
+using Microsoft.EntityFrameworkCore;
 
 namespace BookstoreWeb.Data
 {
