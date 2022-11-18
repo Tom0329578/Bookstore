@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ThhEwC2nsxgnCDP3MrSTwZEuYzwivsNqjNC/nZojXJg=",
+  "Hash": "CiOMnGGipU9ZoybYAms/LYqWeohUGn3m1MzFysLDJdM=",
   "Source": "BookstoreWeb",
   "BasePath": "_content/BookstoreWeb",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\tompe\\source\\repos\\Jaar 3\\Bookstore\\Bookstore\\BookstoreWeb\\wwwroot\\css\\vapor.min.css",
+      "SourceId": "BookstoreWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tompe\\source\\repos\\Jaar 3\\Bookstore\\Bookstore\\BookstoreWeb\\wwwroot\\",
+      "BasePath": "_content/BookstoreWeb",
+      "RelativePath": "css/vapor.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\vapor.min.css"
     },
     {
       "Identity": "C:\\Users\\tompe\\source\\repos\\Jaar 3\\Bookstore\\Bookstore\\BookstoreWeb\\wwwroot\\favicon.ico",
