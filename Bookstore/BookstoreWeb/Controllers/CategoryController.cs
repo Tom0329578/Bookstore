@@ -1,5 +1,6 @@
-﻿using BookstoreWeb.Data;
+﻿using BookStore.DataAccess;
 using BookstoreWeb.Models;
+using BookStore.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BookstoreWeb.Controllers
@@ -41,6 +42,7 @@ namespace BookstoreWeb.Controllers
                 try
                 {
                     _context.SaveChanges();
+                    TempData["result"] = "Categorie succesvol toegevoegd.";
                 }
                 catch (Exception ex)
                 {
@@ -80,6 +82,7 @@ namespace BookstoreWeb.Controllers
                 try
                 {
                     _context.SaveChanges();
+                    TempData["result"] = "Categorie succesvol gewijzigd.";
                 }
                 catch (Exception ex)
                 {
@@ -112,6 +115,7 @@ namespace BookstoreWeb.Controllers
             try
             {
                 _context.SaveChanges();
+                TempData["result"] = "Categorie succesvol verwijderd.";
             }
             catch (Exception ex)
             {

@@ -3769,6 +3769,31 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "BookStore.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BookStore.Models": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "7.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BookStore.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookStore.DataAccess.dll": {}
+        }
+      },
+      "BookStore.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BookStore.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookStore.Models.dll": {}
+        }
       }
     }
   },
@@ -10831,10 +10856,22 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "BookStore.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../BookStore.DataAccess/BookStore.DataAccess.csproj",
+      "msbuildProject": "../BookStore.DataAccess/BookStore.DataAccess.csproj"
+    },
+    "BookStore.Models/1.0.0": {
+      "type": "project",
+      "path": "../BookStore.Models/BookStore.Models.csproj",
+      "msbuildProject": "../BookStore.Models/BookStore.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "BookStore.DataAccess >= 1.0.0",
+      "BookStore.Models >= 1.0.0",
       "EntityFramework >= 6.4.4",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.0",
@@ -10873,7 +10910,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\tompe\\source\\repos\\Jaar 3\\Bookstore\\Bookstore\\BookStore.DataAccess\\BookStore.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\tompe\\source\\repos\\Jaar 3\\Bookstore\\Bookstore\\BookStore.DataAccess\\BookStore.DataAccess.csproj"
+            },
+            "C:\\Users\\tompe\\source\\repos\\Jaar 3\\Bookstore\\Bookstore\\BookStore.Models\\BookStore.Models.csproj": {
+              "projectPath": "C:\\Users\\tompe\\source\\repos\\Jaar 3\\Bookstore\\Bookstore\\BookStore.Models\\BookStore.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

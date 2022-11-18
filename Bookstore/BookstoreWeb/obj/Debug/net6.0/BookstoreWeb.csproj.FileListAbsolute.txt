@@ -289,3 +289,7 @@ C:\Users\tompe\source\repos\Jaar 3\Bookstore\Bookstore\BookstoreWeb\bin\Debug\ne
 C:\Users\tompe\source\repos\Jaar 3\Bookstore\Bookstore\BookstoreWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\tompe\source\repos\Jaar 3\Bookstore\Bookstore\BookstoreWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\tompe\source\repos\Jaar 3\Bookstore\Bookstore\BookstoreWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\tompe\source\repos\Jaar 3\Bookstore\Bookstore\BookstoreWeb\bin\Debug\net6.0\BookStore.Models.dll
+C:\Users\tompe\source\repos\Jaar 3\Bookstore\Bookstore\BookstoreWeb\bin\Debug\net6.0\BookStore.Models.pdb
+C:\Users\tompe\source\repos\Jaar 3\Bookstore\Bookstore\BookstoreWeb\bin\Debug\net6.0\BookStore.DataAccess.dll
+C:\Users\tompe\source\repos\Jaar 3\Bookstore\Bookstore\BookstoreWeb\bin\Debug\net6.0\BookStore.DataAccess.pdb
