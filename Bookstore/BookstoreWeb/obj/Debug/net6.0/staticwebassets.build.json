@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CiOMnGGipU9ZoybYAms/LYqWeohUGn3m1MzFysLDJdM=",
+  "Hash": "GFRYrQJm7jtjSwW2zpH/SJO/3d8Zrv3g8dMfKZyrohg=",
   "Source": "BookstoreWeb",
   "BasePath": "_content/BookstoreWeb",
   "Mode": "Default",
@@ -49,6 +49,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\tompe\\source\\repos\\Jaar 3\\Bookstore\\Bookstore\\BookstoreWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BookstoreWeb.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\tompe\\source\\repos\\Jaar 3\\Bookstore\\Bookstore\\BookstoreWeb\\wwwroot\\css\\flatly.min.css",
+      "SourceId": "BookstoreWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tompe\\source\\repos\\Jaar 3\\Bookstore\\Bookstore\\BookstoreWeb\\wwwroot\\",
+      "BasePath": "_content/BookstoreWeb",
+      "RelativePath": "css/flatly.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\flatly.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\tompe\\source\\repos\\Jaar 3\\Bookstore\\Bookstore\\BookstoreWeb\\wwwroot\\css\\lux.min.css",
+      "SourceId": "BookstoreWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tompe\\source\\repos\\Jaar 3\\Bookstore\\Bookstore\\BookstoreWeb\\wwwroot\\",
+      "BasePath": "_content/BookstoreWeb",
+      "RelativePath": "css/lux.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\lux.min.css"
     },
     {
       "Identity": "C:\\Users\\tompe\\source\\repos\\Jaar 3\\Bookstore\\Bookstore\\BookstoreWeb\\wwwroot\\css\\site.css",
