@@ -588,3 +588,8 @@ C:\Users\Tom\source\repos\Bookstore\Bookstore\BookstoreWeb\obj\Debug\net6.0\refi
 C:\Users\Tom\source\repos\Bookstore\Bookstore\BookstoreWeb\obj\Debug\net6.0\BookstoreWeb.pdb
 C:\Users\Tom\source\repos\Bookstore\Bookstore\BookstoreWeb\obj\Debug\net6.0\BookstoreWeb.genruntimeconfig.cache
 C:\Users\Tom\source\repos\Bookstore\Bookstore\BookstoreWeb\obj\Debug\net6.0\ref\BookstoreWeb.dll
+C:\Users\tompe\source\repos\Jaar 3\Bookstore\Bookstore\BookstoreWeb\obj\Debug\net6.0\staticwebassets\msbuild.BookstoreWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tompe\source\repos\Jaar 3\Bookstore\Bookstore\BookstoreWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.BookstoreWeb.props
+C:\Users\tompe\source\repos\Jaar 3\Bookstore\Bookstore\BookstoreWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookstoreWeb.props
+C:\Users\tompe\source\repos\Jaar 3\Bookstore\Bookstore\BookstoreWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookstoreWeb.props
+C:\Users\tompe\source\repos\Jaar 3\Bookstore\Bookstore\BookstoreWeb\obj\Debug\net6.0\staticwebassets.pack.json
